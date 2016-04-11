@@ -11,14 +11,15 @@
   "license": "ISC",
   "devDependencies": {
     "code": "^2.2.0",
+    "hapi": "^13.3.0",
     "lab": "^10.3.1",
+    "joi": "^8.0.5",
     "wreck": "^7.1.0"
   },
   "dependencies": {
+    "boom": "^3.1.2",
     "from2": "^2.1.1",
-    "hapi": "^13.3.0",
     "hoek": "^3.0.4",
-    "joi": "^8.0.5",
     "pump": "^1.0.1",
     "tentacoli": "^0.4.0",
     "through2": "^2.0.1"
